@@ -10,6 +10,8 @@ cout<<"Inserisci due variabili" <<endl;
 cin>>x;
 cin>>y;
 z= x+y;
-cout<<"La somma e':" <<x;
+cout<<"La somma e':" <<z <<endl;
+z=x-y;
+cout<<"La differenza e':" <<z <<endl;
 return 0;
 }
